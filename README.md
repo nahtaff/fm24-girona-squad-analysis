@@ -25,13 +25,13 @@ A small data analysis project using data exported from my own Football Manager 2
 
 ## Results
 
-![Goals vs xG](chart_gol_vs_xg.png)
+![Goals vs xG](chart_goal_vs_xg.png)
 
 - Leny Yoro (centre-back) scored 10 goals from 4.47 xG (+5.5) and Lucas Román scored 8 from 4.33 xG (+3.7), both far above expectation.
 - Abel Ruiz scored 6 from 8.37 xG (-2.4), the biggest underperformer.
 - Ricard Tribulietx, the top scorer with 12 goals, almost exactly matched his xG (11.3).
 
-![Wage vs contribution](chart_gaji_vs_kontribusi.png)
+![Wage vs contribution](chart_wages_vs_kontribution.png)
 
 - There is no clear relationship between wage and goals + assists per 90 minutes; the points are widely scattered.
 - Mikey Moore and Román produce high output (about 0.56 and 0.62 G+A per 90) on wages under £50,000 per week.
